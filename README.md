@@ -1,2 +1,2 @@
-# Watertaster_Lime_Locale-
-This is the model for testing water quality
+# Green_A.I(Limelocale__Mapping-areas-with-hard-water-deposits)
+The project aims to identify areas with hard water. I am creating an A.I model that can predict using chemical structure of the rocks, rain received in the region, and availability of aquifers in the region. My test case area is Kenya : Machakos, Makueni, Kitui, Mandera, Marsabit,Turkana , Nakuru , Mombasa counties. With this information, I can map out better mitigation methods for inflicted citizens with discoloured teeth and excessive calcium in the bones.
